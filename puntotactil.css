@@ -1,0 +1,19 @@
+body{
+    background-color: #a3c498;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+.secciones {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    padding-top: 20px;
+    background-color: white;
+  }
+  .logo-chico{
+  width: 60px;
+  height: auto;
+}
